@@ -1,0 +1,9 @@
+C:\HomeWork1\homework2PriceDiscount\homework2PriceDiscount\bin\Debug\homework2PriceDiscount.exe.config
+C:\HomeWork1\homework2PriceDiscount\homework2PriceDiscount\obj\Debug\homework2PriceDiscount.csprojResolveAssemblyReference.cache
+C:\HomeWork1\homework2PriceDiscount\homework2PriceDiscount\bin\Debug\homework2PriceDiscount.exe
+C:\HomeWork1\homework2PriceDiscount\homework2PriceDiscount\bin\Debug\homework2PriceDiscount.pdb
+C:\HomeWork1\homework2PriceDiscount\homework2PriceDiscount\obj\Debug\homework2PriceDiscount.exe
+C:\HomeWork1\homework2PriceDiscount\homework2PriceDiscount\obj\Debug\homework2PriceDiscount.pdb
+C:\Домашка2\homework2PriceDiscount\homework2PriceDiscount\bin\Debug\homework2PriceDiscount.exe.config
+C:\Домашка2\homework2PriceDiscount\homework2PriceDiscount\obj\Debug\homework2PriceDiscount.exe
+C:\Домашка2\homework2PriceDiscount\homework2PriceDiscount\obj\Debug\homework2PriceDiscount.pdb
